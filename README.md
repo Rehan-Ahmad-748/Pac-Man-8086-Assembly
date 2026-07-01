@@ -31,7 +31,7 @@ PACMAN/
 ---
 
 
-2. ## How to Run
+1. ## How to Run
 
 1. The source code is provided as `pacman.asm.txt` — **convert it into `pacman.asm`** before proceeding
 2. Open the project in **Visual Studio** with the Irvine Library configured
