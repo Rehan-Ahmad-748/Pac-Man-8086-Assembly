@@ -30,11 +30,14 @@ PACMAN/
 
 ---
 
-## How to Run
 
-1. Open the project in **Visual Studio** with the Irvine Library configured
-2. Assemble `pacman.asm` using MASM
-3. Run the executable — use keyboard arrows to play
+2. ## How to Run
+
+1. The source code is provided as `pacman.txt` — **rename it to `pacman.asm`** before proceeding
+2. Open the project in **Visual Studio** with the Irvine Library configured
+3. Assemble `pacman.asm` using MASM
+4. Run the executable — use keyboard arrows to play
+
 
 ---
 
